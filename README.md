@@ -14,10 +14,4 @@ Also The application will actively monitor the Internet to detect probable occur
 
 The application will create a database to keep track of people. The database will be collectively maintained by reports from the victims, rescuers, bystanders, family etc. These reports can contain pictures, identifying traits, belongings, wounds, location etc. Each report will be marked with tags like (Missing,Found,Dead,Unknown, etc).We use approches like Facial Recognition and NLP to make sense out of the information received , the application will try to match different reports to figure out the status and identification of each person affected by the disaster.
 
-Technologies we plan to use
-Component 	Software
-Platform 	Android
-Database 	MongoDB
-Coding Language Python
-Deep Learning framework - pytorch/Tensorflow plus keras
-Backend Server 	Linux
+Technologies we plan to use Platform 	- Android, Database-MongoDB,Coding Language- Python,Deep Learning framework - Pytorch/Tensorflow plus keras,Backend Server-Linux
